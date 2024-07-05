@@ -2,32 +2,32 @@ Privacy Policy for [moobs]
 
 This Privacy Policy governs the collection, use, and sharing of personal information by [moobs], a Discord bot developed by [_‎‎meeps_]. By using [moobs], you agree to be bound by the terms of this Privacy Policy. If you do not agree to this Policy, you should immediately discontinue use of the Bot.
 
-Information We Collect
+1. Information We Collect
 
 We do not collect or retain any personal information from your use of [moobs], except when you use the included Feedback Form.
 How We Use Your Information
 The information provided through the Feedback Form is used solely to improve [moobs] and to respond to your feedback. No other personal information is collected or used.
 
-Sharing Your Information
+2. Sharing Your Information
 
 We do not sell or share your personal information with third parties. Information provided through the Feedback Form may be disclosed only in response to a legal process if deemed necessary by a request from a law enforcement agency or regulatory authority.
 
-Data Retention
+3. Data Retention
 
 We retain the information collected through the Feedback Form only as long as necessary to address your feedback or as required by law. We will delete this information upon your request or when it is no longer needed.
 
-Data Security
+4. Data Security
 
 We take reasonable measures to protect the information provided through the Feedback Form from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.
 
-Changes to this Policy
+5. Changes to this Policy
 
 We may update this Privacy Policy from time to time, and we will post the updated policy on this repository. Your continued use of [moobs] after we make changes to this policy indicates your acceptance of the revised policy.
 
-Contact Us
+6. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at [meepsdiscordbot@gmail.com].
 
-Effective Date
+7. Effective Date
 This Privacy Policy is effective as of [July 5th, 2024].
 
 
